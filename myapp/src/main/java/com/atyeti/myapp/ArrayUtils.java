@@ -2,7 +2,7 @@ package com.atyeti.myapp;
 
 public class ArrayUtils {
     public int findSecondLargest(int[] arr) {
-        return 0;
+        return 1;
     }
 
     public int sumDivisibleBy3(int[] arr) {
